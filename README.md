@@ -1,7 +1,7 @@
 Hi there
 
-- I’m currently working on UVM-Based Function of PCIe PHY Layer
-- I’m currently learning Functional Verification
+- I’m currently working on UVM-Based Functional Verification of PCIe PHY Layer
+- I’m currently learning Digital Design and Functional Verification
 - How to reach me: s-marwan.eid@zewailcity.edu.eg
 - Skills:  
       1) Verification Basics: Testing Concepts - Verification Flow - Verification Planning  
