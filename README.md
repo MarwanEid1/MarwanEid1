@@ -2,7 +2,7 @@ Hi there
 
 - I’m currently working on UVM-Based Functional Verification of PCIe PHY Layer
 - I’m currently learning Digital Design and Functional Verification
-- How to reach me: s-marwan.eid@zewailcity.edu.eg
+- How to reach me: eid.marwan.work@gmail.com
 - Skills:
   * Design: FPGA Flow and Architecture - ASIC Flow and Architecture - Combinational and Sequential Logic - FSMs - Verilog - VHDL - Hierarchical Design - Synthesis - STA - Tcl
   * Verification Basics: Testing Concepts - Verification Flow - Verification Planning
