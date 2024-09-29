@@ -4,7 +4,7 @@ Hi there
 - I’m currently learning Digital Design and Functional Verification
 - How to reach me: eid.marwan.work@gmail.com
 - Skills:
-  * Design: FPGA Flow and Architecture - ASIC Flow and Architecture - Combinational and Sequential Logic - FSMs - Verilog - VHDL - Hierarchical Design - Synthesis - STA - Tcl
+  * Design: FPGA Flow and Architecture - ASIC Flow and Architecture - Combinational and Sequential Logic - FSMs - Verilog - VHDL - Hierarchical Design - Synthesis - STA - CDC - Tcl
   * Verification Basics: Testing Concepts - Verification Flow - Verification Planning
   * SystemVerilog: Data Types - Process Blocks - Hierarchical Structures - Compiler Directives - Scheduling Semantics - Assignments - Classes - OOP - Randomization - Coverage - SVA
   * UVM: Phasing - Base Classes - Factory - Resources, Configurations - TLM - Sequences, Sequencers - Drivers, Monitors - Components - Full Environment  
