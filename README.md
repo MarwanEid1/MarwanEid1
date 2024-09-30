@@ -8,5 +8,5 @@ Hi there
   * Verification Basics: Testing Concepts - Verification Flow - Verification Planning
   * SystemVerilog: Data Types - Process Blocks - Hierarchical Structures - Compiler Directives - Scheduling Semantics - Assignments - Classes - OOP - Randomization - Coverage - SVA
   * UVM: Phasing - Base Classes - Factory - Resources, Configurations - TLM - Sequences, Sequencers - Drivers, Monitors - Components - Full Environment
-  * EDA Tools: Synopsys (VCS, Design Compiler, IC Compiler, IC Compiler II, PrimeTime)- Mentor (QuestaSim)- Xilinx (Vivado, ISE)- Cadence (Virtuoso)
-  * Programming & Scripting: MATLAB- Python- C/C++- Tcl- OOP
+  * EDA Tools: Synopsys (VCS, Design Compiler, IC Compiler, IC Compiler II, PrimeTime) - Mentor (QuestaSim) - Xilinx (Vivado, ISE) - Cadence (Virtuoso)
+  * Programming & Scripting: MATLAB - Python - C/C++ - Tcl - OOP
